@@ -52,7 +52,6 @@ Check the video below to see how you can make the access key and secret key. Als
 
 https://github.com/umassd-dataviz/CIS470-Activity-8/assets/119906645/8ca7d3a7-d2e6-4764-b124-2b2c1eb7a775
 
-
 #### Deliverables of the Assignment:
 
 Running lambda function in AWS Lambda: Include the link to the running lambda function.
